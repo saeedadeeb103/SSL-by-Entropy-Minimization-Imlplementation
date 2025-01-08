@@ -83,12 +83,12 @@ The results are plotted:
 
 To fully replicate the experiments described in the paper:
 1. Implement multiple runs (e.g., 10 runs) for each configuration and compute the average results.
-2. Extend the implementation to cover additional experiments from the paper, such as robustness to violations of the cluster assumption.
-3. Optimize model hyperparameters and expand the analysis to other datasets.
+2. Extend the implementation to cover additional experiments from the paper.
+3. Optimize model hyperparameters.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Apache License.
 
 ## References
 
