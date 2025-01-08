@@ -88,7 +88,7 @@ To fully replicate the experiments described in the paper:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Apache License.
 
 ## References
 
